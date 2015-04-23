@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jcMWF.Lib", "jcMWF.Lib\jcMWF.Lib.csproj", "{8BB4CC5A-BAE4-43B7-927D-82084060D6D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jcMWF.Test.MVC", "jcMWF.Test.MVC\jcMWF.Test.MVC.csproj", "{A803F9F5-5D8F-449E-894E-C2B3D13E5EE2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8BB4CC5A-BAE4-43B7-927D-82084060D6D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8BB4CC5A-BAE4-43B7-927D-82084060D6D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BB4CC5A-BAE4-43B7-927D-82084060D6D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A803F9F5-5D8F-449E-894E-C2B3D13E5EE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A803F9F5-5D8F-449E-894E-C2B3D13E5EE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A803F9F5-5D8F-449E-894E-C2B3D13E5EE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A803F9F5-5D8F-449E-894E-C2B3D13E5EE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
